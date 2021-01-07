@@ -1,0 +1,1 @@
+{"url":"https://storage.googleapis.com/bizupimg/profile_photo/IMG_20200917_190810.jpg","dominant_color":"#fdd8","logo_border":"fed9e0"}

@@ -1,0 +1,1 @@
+{"url":"https://storage.googleapis.com/bizupimg/profile_photo/Screenshot%202020-08-16%20at%205.02.30%20PM%20-%20Nikunj%20Daruka.png","dominant_color":"#eff4f6","logo_border":"eff4f6"}
