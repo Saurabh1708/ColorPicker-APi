@@ -1,1 +1,0 @@
-{"url":"https://storage.googleapis.com/bizupimg/profile_photo/DigiKarobar-black.jpeg","dominant_color":"#1a1a","logo_border":"1a1a1a"}
