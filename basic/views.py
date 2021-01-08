@@ -23,7 +23,7 @@ class PickerViewSet(viewsets.ModelViewSet):
 class IndexView(TemplateView):
     template_name='index.html'
 
-
+"""
 @api_view(['GET', 'POST'])
 def color_picker_view(request):
     if request.method=='GET':
@@ -42,3 +42,4 @@ def color_picker_view(request):
             serializer.save()
             return Response(serializer.data, status=HTTP_201_CREATED)
     return Response(serializer.errors, status.HTTP_400_BAD_REQUEST)
+    """
